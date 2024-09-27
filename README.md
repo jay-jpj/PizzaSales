@@ -75,5 +75,3 @@ Run the ".sql" file in your database
 Create database and run the file.For reference the Questions are written and below that solutions to the problem is provided.
 ```
 
-### For Better Understanding you can refer to the PPT on Questions Solved for Pizza Sales Database
-- <a href="https://github.com/Singhyash9009/Pizza-Sales/blob/main/Pizza%20Sales.pdf">Pizza Sales PPT</a>
